@@ -350,6 +350,20 @@ export const club_member_details = [
     year: "2021"
   },
 
+  {
+    id: 8,
+    firstname: 'Asis',
+    fullname: 'Asis Asutosh Sahoo',
+    description: `Interest for Artificial Intelligence and Cloud Computing.`,
+    desgination: 'AI Engineer and Public Speaker',
+    member_type: 'Core Member',
+    member:"student",
+    profile_img: 'https://avatars.githubusercontent.com/u/145219122?v=4',
+    linkedln_link: `www.linkedin.com/in/asis-asutosh-sahoo-028376264`,
+    github_link: `https://github.com/asisahoo23`,
+    year: '2022'
+  },
+
   
   // {
   //   id: 10,
